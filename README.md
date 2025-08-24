@@ -61,26 +61,10 @@ Edit
 ├── NASAProject1.py      # Core logic, preprocessing, and ML models  
 ├── MergedExcel.xlsx     # Sample dataset (optional)  
 ├── requirements.txt     # Dependencies  
-└── README.md            # Documentation  
+└── README.md            # Documentation
+
 Acknowledgments
 Data sourced from NASA’s Materials International Space Station Experiment (MISSE).
-
 Built for research and educational purposes to explore material degradation in space environments.
 
-pgsql
-Copy
-Edit
 
----
-
-✅ This version will render perfectly on GitHub — with proper **headers, bullet points, and code blocks**.  
-
-Do you want me to also add **badges** (like Python version, Streamlit, license) at the top to make it look even more professional?
-
-
-
-
-
-
-
-Ask ChatGPT
